@@ -1,7 +1,7 @@
 name: desn366
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.50181
+typography_spectrum: 0.50446
 title: DESN366 Publication Design
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.27162141748704016
-  lightness: 0.29619848309084773
-  saturation: 0.3255329318344593
-  rhythmicContrast: 0.5106602115556598
+    - '#f49cc4'
+    - '#ffffff'
+    - '#4f4e4c'
+    - '#e0d93c'
+    - '#e32e89'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
